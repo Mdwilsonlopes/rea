@@ -41,6 +41,10 @@ export default defineConfig({
           { text: "Process capture", link: "/process-capture" },
           { text: ".NET assemblies", link: "/managed-code-analysis" },
           { text: "Android applications", link: "/android-analysis" },
+          {
+            text: "Eternity Audio Tool case note",
+            link: "/eternity-audio-tool-case-study",
+          },
           { text: "Apple applications", link: "/apple-application-analysis" },
           { text: "Firmware", link: "/firmware-analysis" },
           { text: "SQLite databases", link: "/sqlite-databases" },
